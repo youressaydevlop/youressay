@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/check-essay.js": {
+      "maxDuration": 30
+    }
+  }
+}
